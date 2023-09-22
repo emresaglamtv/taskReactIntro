@@ -1,0 +1,15 @@
+{
+  "name": "taskreactintro",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "introTask1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "EmreSaglam",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
